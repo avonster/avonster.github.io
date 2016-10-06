@@ -1,0 +1,33 @@
+.wrapper {
+	background: gray;
+	width: 0 auto;
+	padding: 30px;
+	text-align: center;
+}
+
+#navbar {
+	color: white;
+	background: black;
+	margin: 0 auto 30px auto;
+	text-align: center;
+	padding: 10px;
+}
+
+.block {
+ 	margin: 10px auto;
+  	text-align: center;
+  	padding: 10px;
+  	background: red;
+}
+
+#top {
+	color: purple;
+}
+
+#middle {
+	color: green;
+}
+
+#bottom {
+	color: yellow;
+}
